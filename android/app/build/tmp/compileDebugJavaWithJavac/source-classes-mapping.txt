@@ -1,0 +1,14 @@
+com/wolox/MainApplication.java
+ com.wolox.MainApplication
+ com.wolox.MainApplication$1
+com/wolox/MainActivity.java
+ com.wolox.MainActivity
+com/wolox/BuildConfig.java
+ com.wolox.BuildConfig
+com/wolox/ReactNativeFlipper.java
+ com.wolox.ReactNativeFlipper
+ com.wolox.ReactNativeFlipper$1
+ com.wolox.ReactNativeFlipper$2
+ com.wolox.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
