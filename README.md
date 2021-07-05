@@ -8,3 +8,4 @@ adb -s emulator-5554 reverse tcp:3000 tcp:3000
 Usuario y contraseña por defecto del login de la aplicación.
 usuario admin
 password admin
+igualmente en la vista sign up se puede crear un usuario temporal
