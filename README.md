@@ -1,2 +1,2 @@
 # wolox
-prueba wolox
+Debe ejecutarse con nodejs 14.
